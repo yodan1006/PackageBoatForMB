@@ -1,0 +1,15 @@
+{
+    "name": "be.yodan.BoatMB",
+    "version": "0.0.1",
+    "displayName": "brandon boat for Meet and Build",
+    "description": "this tool contain some script and 3D model for boad and play",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/yodan1006/boadForMB",
+    "licensesUrl": "https://choosealicense.com/licenses/mit/",
+    "author": {
+      "name": "Decarpentrie Brandon",
+      "email": "yodanbrandon@gmail.com",
+      "url": "https://github.com/yodan1006/"
+    }
+  }
